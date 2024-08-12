@@ -1,0 +1,12 @@
+输出= print
+输入 = input
+整数 = int
+字符串 = str
+浮数点 = float
+列表 = list
+切片 = tuple
+字典 = dict
+真 = True
+假 = False
+空 = None
+范围 = range
